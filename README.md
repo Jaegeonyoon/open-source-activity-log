@@ -1,5 +1,3 @@
-
-
 # Open Source Activity Log
 
 This repository records selected open-source investigations, pull requests, issue discussions, and technical learning notes.
@@ -36,10 +34,7 @@ The current focus is on projects related to:
 
 Monthly activity logs are stored under:
 
-```text
-2026/2026-07.md
-
-```
+- [2026-07](2026/2026-07.md)
 
 ## Entry Types
 
