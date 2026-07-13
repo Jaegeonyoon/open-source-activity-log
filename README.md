@@ -36,4 +36,4 @@ The current focus is on projects related to:
 Monthly activity logs are stored under:
 
 ```text
-2026/
+2026/2026-07.md
